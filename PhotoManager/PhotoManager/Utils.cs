@@ -13,5 +13,10 @@ namespace PhotoManager
         {
             MessageBox.Show(text, title, MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        public static DialogResult ShowQuestionBox(string text, string title = "Question")
+        {
+            return MessageBox.Show(text, title, MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+        }
     }
 }

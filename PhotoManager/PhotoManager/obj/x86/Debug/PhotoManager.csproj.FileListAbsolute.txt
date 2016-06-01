@@ -15,3 +15,11 @@ D:\Projects\Desktop\PhotoManager\PhotoManager\obj\x86\Debug\PhotoManager.csprojR
 D:\Projects\Desktop\PhotoManager\PhotoManager\obj\x86\Debug\PhotoManager.Form1.resources
 D:\Projects\Desktop\PhotoManager\PhotoManager\obj\x86\Debug\PhotoManager.Properties.Resources.resources
 D:\Projects\Desktop\PhotoManager\PhotoManager\obj\x86\Debug\PhotoManager.csproj.GenerateResource.Cache
+D:\Projects\GitHub\PhotoManager\PhotoManager\PhotoManager\obj\x86\Debug\PhotoManager.exe
+D:\Projects\GitHub\PhotoManager\PhotoManager\PhotoManager\obj\x86\Debug\PhotoManager.pdb
+D:\Projects\GitHub\PhotoManager\PhotoManager\PhotoManager\bin\Debug\PhotoManager.exe
+D:\Projects\GitHub\PhotoManager\PhotoManager\PhotoManager\bin\Debug\PhotoManager.pdb
+D:\Projects\GitHub\PhotoManager\PhotoManager\PhotoManager\obj\x86\Debug\PhotoManager.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\PhotoManager\PhotoManager\PhotoManager\obj\x86\Debug\PhotoManager.Form1.resources
+D:\Projects\GitHub\PhotoManager\PhotoManager\PhotoManager\obj\x86\Debug\PhotoManager.Properties.Resources.resources
+D:\Projects\GitHub\PhotoManager\PhotoManager\PhotoManager\obj\x86\Debug\PhotoManager.csproj.GenerateResource.Cache
