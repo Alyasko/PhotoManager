@@ -1,20 +1,25 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoManager", "PhotoManager\PhotoManager.csproj", "{C200A95B-AE1B-42DE-8F84-204C43977C1D}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoManager", "PhotoManager.csproj", "{C447508E-D25B-40AB-9FED-47649EE3CA0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x86 = Debug|x86
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C200A95B-AE1B-42DE-8F84-204C43977C1D}.Debug|x86.ActiveCfg = Debug|x86
-		{C200A95B-AE1B-42DE-8F84-204C43977C1D}.Debug|x86.Build.0 = Debug|x86
-		{C200A95B-AE1B-42DE-8F84-204C43977C1D}.Release|x86.ActiveCfg = Release|x86
-		{C200A95B-AE1B-42DE-8F84-204C43977C1D}.Release|x86.Build.0 = Release|x86
+		{C447508E-D25B-40AB-9FED-47649EE3CA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C447508E-D25B-40AB-9FED-47649EE3CA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C447508E-D25B-40AB-9FED-47649EE3CA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C447508E-D25B-40AB-9FED-47649EE3CA0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70E3CD35-0D5D-42B2-8AAA-BE01E73F499D}
 	EndGlobalSection
 EndGlobal

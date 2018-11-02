@@ -20,9 +20,6 @@ namespace PhotoManager
         private BindingSource _groupsBindingSource;
         private bool _waitHandle;
 
-
-
-
         string sourcePath = "";
         string copyPath = "";
 
